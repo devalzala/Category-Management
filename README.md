@@ -5,6 +5,7 @@ To start the app:-
 2. Then visit backend and frontend folder turn by turn and open it in the terminal or vs code and then run npm install.
 3. After all dependencies are installed go to backend folder and run, npm start.
 4. Likewise in frontend npm run dev because we are using the react-vite app.
+5. Also added the jest testing for authController and categoryController which you can run using the command npm run test.
 
 Login api response.
 ![image](https://github.com/user-attachments/assets/d8331dee-7b26-4ed0-a131-57c92539d381)
