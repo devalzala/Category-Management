@@ -12,3 +12,8 @@ Login api response.
 Register api response.
 ![image](https://github.com/user-attachments/assets/a84b79a0-b8d3-4212-937b-6fa1799d457b)
 
+Category Creation
+![image](https://github.com/user-attachments/assets/8d78b26e-f97c-467c-959a-a62e2b576907)
+
+Authentication using the token
+![image](https://github.com/user-attachments/assets/c601861d-4d7e-42e3-8443-bbad7f2d2d4e)
